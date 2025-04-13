@@ -114,24 +114,12 @@
             "Value": "68"
         },
         {
-            "Offset": 57,
-            "Value": "00"
-        },
-        {
             "Offset": 58,
             "Value": "6F"
         },
         {
-            "Offset": 59,
-            "Value": "00"
-        },
-        {
             "Offset": 60,
             "Value": "70"
-        },
-        {
-            "Offset": 61,
-            "Value": "00"
         }
     ]
 }
